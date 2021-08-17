@@ -1,2 +1,5 @@
+branca
+jinja2
+requests
 skyfield
 folium
