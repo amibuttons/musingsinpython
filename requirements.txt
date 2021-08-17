@@ -1,2 +1,2 @@
-skyfield.api
+skyfield
 folium
